@@ -1,6 +1,6 @@
 # Griddle
 
-A single-file browser word game built with pure HTML, CSS, and vanilla JavaScript.
+Griddle is a daily word-swap puzzle built with pure HTML, CSS, and vanilla JavaScript.
 
 ## What is included
 
@@ -11,7 +11,8 @@ A single-file browser word game built with pure HTML, CSS, and vanilla JavaScrip
 
 ## Features
 
-- 5 by 5 waffle-style word grid
+- 5 by 5 word grid
+- Six hidden five-letter words: three across and three down
 - Swap letters by clicking two tiles
 - 15 swap limit
 - Daily date-seeded puzzle
@@ -48,4 +49,4 @@ Edit `index.html`, commit the change, and GitHub Pages will update after the com
 
 ## Favicon suggestion
 
-Use a navy background with a gold letter W or waffle tile icon.
+Use a navy background with a gold letter G or grid tile icon.
